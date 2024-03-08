@@ -69,7 +69,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: BernardoFL # your GitHub user name
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
