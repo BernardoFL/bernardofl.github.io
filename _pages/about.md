@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UT Austin</a>. Austin, TX
+subtitle: Austin, TX
 
 profile:
   align: right
