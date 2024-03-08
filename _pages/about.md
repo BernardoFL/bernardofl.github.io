@@ -6,7 +6,7 @@ subtitle: <a href='#'>UT Austin</a>. Austin, TX
 
 profile:
   align: right
-  image: 2023 Headshot-Web Res-107.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
