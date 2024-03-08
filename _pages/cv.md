@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /assets/pdf/resume.pdf
-title: Resume
+title: resume
 nav: true
 nav_order: 3
 newtab: true
