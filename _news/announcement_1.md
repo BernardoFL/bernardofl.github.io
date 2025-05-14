@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our textbook got published! You can find it [here](https://www.routledge.com/Exercises-in-Statistical-Reasoning/RSchwob-Duan-Cantoni-Flores-Lopez-GWalker/p/book/9781032784861) :)  
