@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Austin, TX
+subtitle: Denver, CO
 
 profile:
   align: right
@@ -14,10 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a 5th year PhD student at the [Department of Statistics and Data Sciences](https://stat.utexas.edu) at the University of Texas at Austin. I am advised by [Dr. Peter Müller](https://math.utexas.edu/directory/peter-mueller) and enjoy working on problems at the intersection between Bayesian statistics, biology and healthcare, particularly for computationally intensive problems.
+Hi! I am a Postdoctoral Fellow in the [Department of Biostatistics & Informatics](https://coloradosph.cuanschutz.edu/education/departments/biostatistics-informatics) at the University of Colorado Anschutz Medical Campus, working with [Yue Wang](https://taryue.github.io) and [Debashish Ghosh](https://coloradosph.cuanschutz.edu/resources/directory/directory-profile/Ghosh-Debashis-UCD6000041943). I previously completed my PhD in the [Department of Statistics and Data Sciences](https://stat.utexas.edu) at the University of Texas at Austin under [Peter Müller](https://math.utexas.edu/directory/peter-mueller), following a Master's degree in mathematics at [UNAM](https://www.iimas.unam.mx) in Mexico City advised by [Ramsés Mena](https://www.dpye.iimas.unam.mx/ramses/). My research focuses on challenges at the intersection of Bayesian statistics, biology, and healthcare, especially computationally intensive problems. Outside of the lab, I spend my time exploring the local food scene and hiking with my two corgis.
 
-**Research interests**
+**Research Interests**
 
-* Bayesian nonparametrics,
-* efficient algorithms for inference in complex models,
-* latent factor models
+* Foundations of Bayesian predictive inference
+* Bayesian nonparametrics
+* Efficient algorithms for inference in complex models
+* Latent factor models
